@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF7B7C12-C3EC-4BA5-8E1C-436DE3343EF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Grifindo_Lanka_Toys</RootNamespace>
+    <AssemblyName>Grifindo Lanka Toys</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplyLeaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplyLeaveForm.Designer.cs">
+      <DependentUpon>ApplyLeaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveLeaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveLeaveForm.Designer.cs">
+      <DependentUpon>ApproveLeaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DefineLeaveQuotaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefineLeaveQuotaForm.Designer.cs">
+      <DependentUpon>DefineLeaveQuotaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DefineRoasterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefineRoasterForm.Designer.cs">
+      <DependentUpon>DefineRoasterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeDashboard.Designer.cs">
+      <DependentUpon>EmployeeDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeaveReportsForm.Designer.cs">
+      <DependentUpon>LeaveReportsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveStatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeaveStatusForm.Designer.cs">
+      <DependentUpon>LeaveStatusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterEmployeeForm.Designer.cs">
+      <DependentUpon>RegisterEmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemainingLeavesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemainingLeavesForm.Designer.cs">
+      <DependentUpon>RemainingLeavesForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplyLeaveForm.resx">
+      <DependentUpon>ApplyLeaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveLeaveForm.resx">
+      <DependentUpon>ApproveLeaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefineLeaveQuotaForm.resx">
+      <DependentUpon>DefineLeaveQuotaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefineRoasterForm.resx">
+      <DependentUpon>DefineRoasterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeDashboard.resx">
+      <DependentUpon>EmployeeDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeaveReportsForm.resx">
+      <DependentUpon>LeaveReportsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeaveStatusForm.resx">
+      <DependentUpon>LeaveStatusForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterEmployeeForm.resx">
+      <DependentUpon>RegisterEmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemainingLeavesForm.resx">
+      <DependentUpon>RemainingLeavesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blackvariant-Button-Ui-System-Folders-Alt-Users.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paomedia-Small-N-Flat-Profile.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Target.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Clock.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Seo-Services-Analytics.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Seo-Services-Pay-per-click.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Android-Settings-Contact.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Book.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Bookshelf.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Tag.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Trends.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Hazard.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Creditcard.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Calendar.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Layers.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Denied.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Piechart.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegantthemes-Softies-Compose.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency-exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Обои для телефона, карпы, рыбки кои, иллюстрации.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bootstrap-Bootstrap-Bootstrap-person-fill-lock.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrioch-Office-Dock-Color-MS-Access.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-approval-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-window-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46373725.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leave %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-11-24 201035.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-system-information-100.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

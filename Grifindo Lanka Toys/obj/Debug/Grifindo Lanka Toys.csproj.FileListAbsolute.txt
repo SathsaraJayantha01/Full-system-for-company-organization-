@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.exe.config
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.exe
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.pdb
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.ApplyLeaveForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.ApproveLeaveForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.DefineLeaveQuotaForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.DefineRoasterForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.EmployeeDashboard.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LeaveReportsForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LeaveStatusForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LoginForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.RegisterEmployeeForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.RemainingLeavesForm.resources
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.exe
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.pdb
+C:\Users\user\Desktop\Assignment c#\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.AdminDashboard.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.exe.config
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.exe
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.pdb
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.exe
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.pdb
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.csprojResolveAssemblyReference.cache
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.AdminDashboard.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.ApplyLeaveForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.ApproveLeaveForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.DefineLeaveQuotaForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.DefineRoasterForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.EmployeeDashboard.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LeaveReportsForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LeaveStatusForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.LoginForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.Properties.Resources.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.RegisterEmployeeForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo_Lanka_Toys.RemainingLeavesForm.resources
+C:\Users\sathsara jayantha\Desktop\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.csproj.GenerateResource.Cache
+C:\Users\sathsara jayantha\Desktop\PROGRAMMING\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\bin\Debug\Grifindo Lanka Toys.exe.config
+C:\Users\sathsara jayantha\Desktop\PROGRAMMING\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.exe
+C:\Users\sathsara jayantha\Desktop\PROGRAMMING\Grifindo Lanka Toys new\Grifindo Lanka Toys new\Grifindo Lanka Toys\Grifindo Lanka Toys\obj\Debug\Grifindo Lanka Toys.pdb
